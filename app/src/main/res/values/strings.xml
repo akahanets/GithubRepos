@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Github Repos</string>
+    <string name="app_details">Repo Details</string>
+    <string name="prompt_written_in">Written in</string>
+    <string name="prompt_by">By</string>
+    <string name="prefix_updated">Updated</string>
+</resources>
